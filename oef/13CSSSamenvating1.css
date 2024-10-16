@@ -1,0 +1,36 @@
+
+main{
+    background: yellow;
+    height:400px;
+}
+body{
+    font-family: Arial;
+    background: silver;
+}
+    header{
+      background: red;
+       color: white;
+}
+
+    nav{
+        background: green;
+        color: white;
+            height:400px;
+            width:100px;
+            float:left;
+}
+
+    article{
+        background:white;
+        
+        font-family: verdana;
+    
+        
+        
+}
+
+    footer{
+        background: blue;
+        color: white;
+        clear: both;
+}
